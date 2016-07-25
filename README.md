@@ -34,6 +34,8 @@
 
 系统详细介绍：http://www.roncoo.com/article/detail/124373
 
+GitHub地址：https://github.com/roncoo/roncoo-pay
+
 官方QQ群：287684257，欢迎大家加入，共同探讨互联网金融支付行业业务、技术等。
 
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0722/175850_9e020e87_860625.png "在这里输入图片标题")
@@ -44,4 +46,3 @@
 
 
  
-
