@@ -858,7 +858,6 @@ INSERT INTO PMS_MENU (id,version,status,creater,create_time, editor, edit_time, 
 (3,0, 'ACTIVE','roncoo','2016-06-03 11:07:43', 'admin','2016-06-03 11:07:43', '', '权限管理', 'pms/permission/list', '00102', 'YES',2, 1, 'qxgl'),
 (4,0, 'ACTIVE','roncoo','2016-06-03 11:07:43', 'admin','2016-06-03 11:07:43', '', '角色管理', 'pms/role/list', '00103', 'YES',2, 1, 'jsgl'),
 (5,0, 'ACTIVE','roncoo','2016-06-03 11:07:43', 'admin','2016-06-03 11:07:43', '', '操作员管理', 'pms/operator/list', '00104', 'YES',2, 1, 'czygl'),
-(6,0, 'ACTIVE','roncoo','2016-06-03 11:07:43', 'admin','2016-06-03 11:07:43', '', '操作员操作日志查询', '#', '00105', 'YES',2, 1, 'czrz'),
 
 (10,0, 'ACTIVE','roncoo','2016-06-03 11:07:43', 'admin','2016-06-03 11:07:43', '', '账户管理', '##', '002', 'NO', 1, 0, '#'),
 (12,0, 'ACTIVE','roncoo','2016-06-03 11:07:43', 'admin','2016-06-03 11:07:43', '', '账户信息', 'account/list', '00201', 'YES',2, 10, 'zhxx'),
@@ -910,8 +909,6 @@ insert into PMS_PERMISSION (id,version,status,creater,create_time, editor, edit_
  (33, 0,'ACTIVE', 'roncoo','2016-06-03 11:07:43', 'test', '2016-06-03 11:07:43','权限管理-操作员-查看','权限管理-操作员-修改','pms:operator:edit'),
  (34, 0,'ACTIVE', 'roncoo','2016-06-03 11:07:43', 'test', '2016-06-03 11:07:43','权限管理-操作员-冻结与解冻','权限管理-操作员-冻结与解冻','pms:operator:changestatus'),
  (35, 0,'ACTIVE', 'roncoo','2016-06-03 11:07:43', 'test', '2016-06-03 11:07:43','权限管理-操作员-重置密码','权限管理-操作员-重置密码','pms:operator:resetpwd'),
-
- (41, 0,'ACTIVE', 'roncoo','2016-06-03 11:07:43', 'test', '2016-06-03 11:07:43','权限管理-操作员日志-查看','权限管理-操作员日志-查看','pms:operatorLog:view'),
 
 
  (51, 0,'ACTIVE', 'roncoo','2016-06-03 11:07:43', 'test', '2016-06-03 11:07:43','账户管理-账户-查看','账户管理-账户-查看','account:accountInfo:view'),
