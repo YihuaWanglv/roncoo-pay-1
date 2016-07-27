@@ -34,7 +34,7 @@
 
 系统详细介绍：http://www.roncoo.com/article/detail/124373
 
-系统搭架部署：http://www.roncoo.com/article/detail/124511
+系统搭建部署：http://www.roncoo.com/article/detail/124511
 
 GitHub地址：https://github.com/roncoo/roncoo-pay
 
